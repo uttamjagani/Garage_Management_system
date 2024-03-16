@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704120818039",
+    "project_id": "garage-management-sevices",
+    "storage_bucket": "garage-management-sevices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704120818039:android:274372aad01d683399f972",
+        "android_client_info": {
+          "package_name": "com.example.gms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2FvXKASCM_-WbJMq1GVQv6-peiKQ2H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
